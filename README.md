@@ -7,6 +7,7 @@
 
 ## C
 
+- 復習基本Bubblesort, reverseInt, reverseString
 
 ## Python
 
