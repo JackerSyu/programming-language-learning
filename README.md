@@ -9,6 +9,13 @@
 
 - 復習基本Bubblesort, reverseInt, reverseString
 
+### 2019-3-31 
+
+- 解 easy20 
+  - 有問題，自己寫的在自己電腦上跑的答案是對的，但是在leetcode是錯的，找不到原因。
+  - 上傳兩個版本
+
+
 ### 2019-3-26
 - 解 easy13 Roman 一題目描述規則寫即可，不要想太多
   - I can be placed before V (5) and X (10) to make 4 and 9. 
